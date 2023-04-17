@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![github][1]][2]
 [![linkedin][3]][4]
 [![pub.dev][5]][6]
 [![wakatime][7]][8]
