@@ -3,8 +3,6 @@
 [![wakatime](https://wakatime.com/badge/user/cfbd70fe-df37-429a-ae50-ae95fcd5f565.svg)](https://wakatime.com/@cfbd70fe-df37-429a-ae50-ae95fcd5f565)
 
 ## Hi there 👋
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 
 ### About Me 🧑‍🦱
