@@ -16,7 +16,7 @@ Highly motivated and skilled Information Technology student with over 4 years of
 ![streak](https://streak-stats.demolab.com?user=o-hannonen&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)
 
 
-### Languages and Tools 🧰
+### Toolbox 🧰
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
