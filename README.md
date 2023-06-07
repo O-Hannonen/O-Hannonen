@@ -2,10 +2,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/o-hannonen/)
 [![pub.dev](https://img.shields.io/badge/pub.dev-0175C2?style=flat&logo=Dart&logoColor=white)](https://pub.dev/publishers/mankeli.co/packages)
-[![wakatime](https://wakatime.com/badge/user/cfbd70fe-df37-429a-ae50-ae95fcd5f565.svg)](https://wakatime.com/@cfbd70fe-df37-429a-ae50-ae95fcd5f565)
-
-
-
 
 ### About 🧑‍🦱
 
@@ -15,7 +11,6 @@ Highly motivated and skilled Information Technology student with over 4 years of
 ![stats](https://github-readme-stats.vercel.app/api?username=o-hannonen&count_private=true&show_icons=true&hide_title=true&theme=onedark&include_all_commits=true&hide=commits&card_width=500px&hide_border=true)
 
 ![streak](https://streak-stats.demolab.com?user=o-hannonen&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)
-
 
 ### Toolbox 🧰
 <div>
@@ -38,5 +33,3 @@ Highly motivated and skilled Information Technology student with over 4 years of
    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="XCode" alt="XCode" width="40" height="40"/>&nbsp;
 </div>
-
-  
