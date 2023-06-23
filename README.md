@@ -8,8 +8,6 @@
 Highly motivated and skilled Information Technology student with over 4 years of experience in mobile development, including hands-on experience in the development and maintenance of a production mobile application. Strong background in ICT, having attended Kerttuli Upper Secondary school with an emphasis on ICT, and currently studying Information Technology at the University of Turku. Currently working as Software Designer Trainee at Wapice Ltd and co-founder of Mankeli Solutions Oy, a software company focused on mobile and web applications. Passionate about mobile development, particularly experienced in Flutter with a deep understanding of the framework since its beta release in 2018. Dedicated to building a career in this field.
 
 ### Stats 🔥
-![stats](https://github-readme-stats.vercel.app/api?username=o-hannonen&count_private=true&show_icons=true&hide_title=true&theme=onedark&include_all_commits=true&hide=commits&card_width=500px&hide_border=true)
-
 ![streak](https://streak-stats.demolab.com?user=o-hannonen&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&card_width=500)
 
 ### Toolbox 🧰
